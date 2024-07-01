@@ -1,0 +1,16 @@
+FAIR LICENSE
+(C) WARBOEL HTTPS://WARBOEL22.GITHUB.IO/
+
+ABOUT:
+This is a fair license for software that puts the user first. You may make word for word copies of this license, but changing it is not allowed.
+Any violation of this license will be enforced in the most simple way possible. A boycott in mass. Do not get the courts involved, the one with the money will always win instead of the one who's right.
+
+RULES:
+1. When you publicly announce that you are no longer developing a software under this license, the terms of this license are no longer valid.
+2. You may reverse engineer software under this license for personal use, however you may only share the code if the developers are making false claims or outright violating this license, and you may share only the code that proves your point.
+3. If you sell your software, allow people to pirate it. Preferrably tell them that pirated copies can be unsafe and to buy the official copy if you can.
+4. You may not make people pay a recurring fee for your software. Either they pay nothing, or they pay only one fee to have access to your software.
+5. Any data you collect from the users of your software, you may not sell. Preferrably collect what's nescesary. Telemetry must be opt-in
+
+
+
